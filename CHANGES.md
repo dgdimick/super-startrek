@@ -7,7 +7,7 @@ This fork contains minor maintenance updates by Denis Dimick, including:
 - Added GitHub license and README information
 - Raspberry Pi build and testing updates
 
-- I'll keep makiong changes as I see the need to make them, however, I don't feel there will be any need to make any changes to the logic of the code
+- I'll keep making changes as I see the need to make them, however, I don't feel there will be any need to make any changes to the logic of the code
 
 The original game credits, copyright notices, and licensing terms remain unchanged.
 
