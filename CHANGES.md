@@ -11,3 +11,8 @@ This fork contains minor maintenance updates by Denis Dimick, including:
 - there will be any need to make any changes to the logic of the code
 
 The original game credits, copyright notices, and licensing terms remain unchanged.
+
+## Fork Maintainer
+
+Maintenance changes by Denis Dimick  
+GitHub: `dgdimick`
