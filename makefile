@@ -12,7 +12,7 @@ sst:  $(OFILES)
 	gcc  -o sst $(OFILES) -lm
 
 clean:
-	rm $(OFILES) sst
+	rm -f $(OFILES) sst
         
 $(OFILES):  $(HFILES)
 
