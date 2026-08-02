@@ -1,0 +1,30 @@
+# Super Star Trek License
+
+Original program by David Matuszek and Paul Reynolds.
+
+Modifications by Don Smith.
+
+Resurrected by Tom Almy.
+
+Permission is hereby granted for the copying, distribution, modification, and use of this program and its associated documentation for recreational purposes, provided that all references to the authors are retained.
+
+Permission is not granted for:
+
+* The sale of this program or its documentation
+* Promotional use of this program or its documentation
+* Use in any situation where profit may be considered an objective
+
+These restrictions reflect the authors’ desire to respect the copyrights of the originators of Star Trek.
+
+## Additional BSD-Licensed Code
+
+Portions of `battle.c`, specifically code derived from BSD Trek, are separately licensed under the BSD license notice contained in that source file.
+
+The copyright and license notice in `battle.c` must remain intact.
+
+## Trademark Notice
+
+Star Trek and related names, characters, and properties are trademarks or copyrights of their respective owners.
+
+This project is an unofficial, noncommercial fan project and is not affiliated with or endorsed by Paramount or the owners of the Star Trek intellectual property.
+
