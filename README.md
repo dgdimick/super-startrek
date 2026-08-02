@@ -19,3 +19,9 @@ In December 2013 I added three new commands -- CLOAK to cloak the Enterprise, CA
 In June 2015 I fixed some bugs that kept certain counts from being reset when starting a new game.
 
 ###### END  ######
+
+## License
+
+This project is distributed under a custom recreational, noncommercial license. See [LICENSE](LICENSE) for details.
+
+Portions of `battle.c` contain separately licensed BSD-derived code.
